@@ -50,6 +50,9 @@ NPC dialogue systems (e.g., JoJo-style banter!)
 FAQ automation
 
 Ed-tech bots for tutoring or language learning
+
+
+
 **🤖 Future Work**
 
 Add memory for continuous conversations
